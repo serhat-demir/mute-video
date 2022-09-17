@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mute Video</string>
+
+    <string name="btn_select_video">Select Video</string>
+    <string name="btn_mute_video">Mute Video</string>
+
+    <string name="msg_select_a_video">Select a video</string>
+    <string name="msg_video_muted">Video muted</string>
+
+    <string name="tag_error">Error</string>
+
+    <string name="msg_permission_granted">permission granted</string>
+    <string name="msg_permission_denied">permission denied</string>
+
+    <string name="msg_command_cancelled">Async command execution cancelled by user.</string>
+    <string name="msg_command_failed">Async command execution failed with returnCode=%d.</string>
+    <string name="msg_video_couldnt_be_muted">Video couldn\'t be muted.</string>
+    <string name="msg_directory_couldnt_created">Directory couldn\'t be created</string>
+
+    <string name="content_type" translatable="false">video/*</string>
+    <string name="file_prefix" translatable="false">muted_</string>
+    <string name="file_extension" translatable="false">.mp4</string>
+</resources>

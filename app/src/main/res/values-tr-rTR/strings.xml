@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Sesi Kıs</string>
+
+    <string name="btn_select_video">Video Seç</string>
+    <string name="btn_mute_video">Video Sesini Kıs</string>
+
+    <string name="msg_select_a_video">Video seçilmedi</string>
+    <string name="msg_video_muted">Video sesi kısıldı</string>
+
+    <string name="tag_error">Hata</string>
+
+    <string name="msg_permission_granted">İzin verildi</string>
+    <string name="msg_permission_denied">İzin reddedildi</string>
+
+    <string name="msg_command_cancelled">Komut kullanıcı tarafından iptal edildi</string>
+    <string name="msg_command_failed">Komut çalıştırılamadı. Hata kodu=%d</string>
+    <string name="msg_video_couldnt_be_muted">Video sesi kısılamadı</string>
+    <string name="msg_directory_couldnt_created">Kayıt dizini oluşturulamadı</string>
+</resources>
